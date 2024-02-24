@@ -1,4 +1,4 @@
-# Google-Drive-Move-Personal-Files
+# Google Drive Move Personal Files to Shared Drive Team Drive
 Script to help migrate personal google drive my files to a shared drive or team drive
 
 # Modes
